@@ -14,3 +14,11 @@ GitHub:
 - Es un repositorio remoto
 - Se usa en la web y requiere internet
 - Esta tiene interfaz grafica
+
+d) Área de trabajo, área de preparación (ubicarse para la foto) y directorio Git (toma de la foto)
+Podrías explicar en que consisten?
+R//
+Área de trabajo: Es la ubicación del pc donde se encuentran tus archivos del proyecto
+Área de preparación: Es cuando lo añades (Git add) y esta listo para ser registrado <-- (tomarle la foto)
+Directorio Git: Es cuando tomas la foto (Git commit) y guardas la versión del archivo
+
