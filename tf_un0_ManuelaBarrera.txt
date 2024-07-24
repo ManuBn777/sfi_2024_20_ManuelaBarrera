@@ -1,2 +1,6 @@
 a) Que es un sistema de control de versiones?
 R// En un programa que te ayuda a organizar y gestionar tus archivos con tus cambios que haces con el tiempo de manera automática para evitar tener un montón de archivos con miles de nombres diferentes por ahí, este programa te ayuda a organizarte mejor, trabajar con otras personas en el mismo archivo y tener un historial de cambios 
+
+b) Que  diferencia hay entre repositorio local y remoto?
+R// Repositorio Local: Este se encuentra en la pc/computador
+Repositorio Remoto: Por otro lado el remoto se encuentra en la internet/nube
