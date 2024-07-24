@@ -22,3 +22,5 @@ R//
 Área de preparación: Es cuando lo añades (Git add) y esta listo para ser registrado <-- (tomarle la foto)
 Directorio Git: Es cuando tomas la foto (Git commit) y guardas la versión del archivo
 
+e) Para que se utilizan las ramas de Git?
+R// Sirven para hacer varias versiones de un archivo y modificarlas sin afectar la rama principal
