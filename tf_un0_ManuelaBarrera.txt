@@ -4,3 +4,13 @@ R// En un programa que te ayuda a organizar y gestionar tus archivos con tus cam
 b) Que  diferencia hay entre repositorio local y remoto?
 R// Repositorio Local: Este se encuentra en la pc/computador
 Repositorio Remoto: Por otro lado el remoto se encuentra en la internet/nube
+
+c) Mencione tres diferencias entre Git y GitHub
+Git:
+- Es un repositorio local
+- Se instala en el computador/local
+- Esta funciona con líneas de códigos y una consola
+GitHub:
+- Es un repositorio remoto
+- Se usa en la web y requiere internet
+- Esta tiene interfaz grafica
