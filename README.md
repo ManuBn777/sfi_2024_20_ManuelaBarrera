@@ -18,3 +18,14 @@ No se puede ver el mensaje en el momento justo por el hecho de que cuando abre e
 ### ¿Cuántas veces se ejecuta el código en el case Task1States::INIT?
 Una sola vez que es cuando se inicia/ejecuta el codigo, inicializando el Task1 en INIT
 Init = Iniciar
+
+## EJERCICIO 8
+### ¿Cuáles son los estados del programa?
+Hay cuatro estados:
+INIT, WAIT_1_SECOND, WAIT_2_SECOND, WAIT_3_SECOND
+
+### ¿Cuáles son los eventos?
+El pasar de los segundos activan los estados
+
+### ¿Cuáles son las acciones?
+Y despues generan la accion que es mostrar el numero en el Monitor Serie y despues pasar al siguiente estado
