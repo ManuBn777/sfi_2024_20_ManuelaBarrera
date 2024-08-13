@@ -29,3 +29,5 @@ El pasar de los segundos activan los estados
 
 ### ¿Cuáles son las acciones?
 Y despues generan la accion que es mostrar el numero en el Monitor Serie y despues pasar al siguiente estado
+
+
